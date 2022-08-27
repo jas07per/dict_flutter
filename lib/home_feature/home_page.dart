@@ -25,7 +25,7 @@ class _MyHomePageState extends State<HomePage> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Home'),
+          title: Text('Homes'),
         ),
         body: Center(
           child: Stack(
